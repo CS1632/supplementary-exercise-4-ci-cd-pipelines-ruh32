@@ -12,7 +12,7 @@ import org.mockito.*;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class RentACatTest {
 
-	/**
+	/** 
 	 * The test fixture for this JUnit test. Test fixture: a fixed state of a set of
 	 * objects used as a baseline for running tests. The test fixture is initialized
 	 * using the @Before setUp method which runs before every test case. The test
